@@ -1,0 +1,5 @@
+{
+  "name": "claude-code-subagent-row",
+  "owner": { "name": "boiled-darvari" },
+  "plugins": [{ "name": "subagent-row", "source": "./" }]
+}

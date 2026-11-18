@@ -1,0 +1,5 @@
+{
+  "name": "subagent-row",
+  "version": "0.1.0",
+  "description": "Draws each agent list row as: name · description · model[/effort] · tokens"
+}
